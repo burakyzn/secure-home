@@ -27,16 +27,17 @@
             <p>Onaylanmamış İhlal Sayısı : <span id="unapprovedBreach"></span></p>
           </div>
           <div class="card-footer text-muted">
-            <button id="systemOpenClose" type="button" class="btn btn-primary"></button>
+            <button id="systemOpenClose" type="button" class="btn btn-primary" style="margin-bottom:10px;"></button>
+            <button onclick="exportTableToExcel('tblBreachData', 'Ihlal Raporu')" style="margin-bottom:10px;" type="button" class="btn btn-primary">Raporu Excel Olarak İndir</button>
           </div>
         </div>
       </div>
       
       <div class="row">
-        <table class="table table-striped">
+        <table id="tblBreachData" class="table table-striped">
           <thead>
             <tr>
-              <th scope="col">İhlal No</th>
+              <th scope="col">Ihlal No</th>
               <th scope="col">Tarih</th>
               <th scope="col">Onay Durumu</th>
               <th scope="col">Aksiyon</th>
