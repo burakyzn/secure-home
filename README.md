@@ -1,6 +1,7 @@
 # ✏️ Home Security System (IoT)
 
-This project was developed as a smart home security system for the IoT lecture. It can report security breaches and provides a web panel to manage breaches. NodeMCU, Firebase and an MZ-80 infrared sensor were used in this project.
+It is a smart home security system. It can report security breaches and provides a web panel to manage breaches.
+NodeMCU, Firebase and an MZ-80 infrared sensor were used in this project.
 
 # ⚙️ Install
 
