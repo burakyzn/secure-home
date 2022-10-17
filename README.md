@@ -6,7 +6,7 @@ It is a smart home security system. It can report security breaches and provides
 
 Clone the project to your computer.
 ```
-> git clone https://github.com/burakyzn/secure-home.git
+git clone https://github.com/burakyzn/secure-home.git
 ```
 
 You need to open the HomeSecuritySystem.ino file with the Arduino IDE.
