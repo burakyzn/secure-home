@@ -1,7 +1,6 @@
-# ✏️ Home Security System (IoT)
+# 🚀 Secure Home
 
 It is a smart home security system. It can report security breaches and provides a web panel to manage breaches.
-NodeMCU, Firebase and an MZ-80 infrared sensor were used in this project.
 
 # ⚙️ Install
 
